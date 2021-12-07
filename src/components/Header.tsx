@@ -9,7 +9,6 @@ interface HeaderProps {
 }
 
 export function Header({ tasksCounter }: HeaderProps) { 
-  //Se ele for igual a 1,quero que retorne tarefa,se não for,quero que retorne tarefas.
   const tasksCounterText = tasksCounter === 1 ? "tarefa" : "tarefas";
   
   return (
