@@ -16,7 +16,6 @@ export function Home() {
     }
 
     setTasks(oldTasks => [...oldTasks, newTask]);
-    //TODO - add new task
   }
 
   function handleToggleTaskDone(id: number) {
@@ -30,7 +29,6 @@ export function Home() {
     foundItem.done = !foundItem.done;
     setTasks(updatedTasks);
     
-    //TODO - toggle task done if exists
   }
 
   function handleRemoveTask(id: number) {
@@ -38,7 +36,6 @@ export function Home() {
 
     setTasks(updatedTasks);
 
-    //TODO - remove task from staten
   }
 
   return (
