@@ -9,15 +9,15 @@ To.do - React Native
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 
-![alt-text](https://github.com/LeonardoLamoia/to_do_ignite/blob/main/to-do.gif)
+<h1 align="center">![alt-text](https://github.com/LeonardoLamoia/to_do_ignite/blob/main/to-do.gif)</h1>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- Android studio
+- React Native
+- Typescript
 
   </ul>
   
